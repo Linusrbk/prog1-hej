@@ -2,4 +2,4 @@
 
 ## Detta är en mindre rubrik
 
-## Detta är en rubrik med emoji :octocat:
+## Detta är en rubrik med emoji :camel:
